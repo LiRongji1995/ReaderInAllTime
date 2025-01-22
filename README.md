@@ -8,3 +8,6 @@
 
 <img src="https://m.media-amazon.com/images/I/71FzpAd5y3L._AC_UF1000,1000_QL80_.jpg" width="300" />
 《如首无作祟之物》
+
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345477434i/12673959.jpg" width="300" />
+《浪潮之巅》
