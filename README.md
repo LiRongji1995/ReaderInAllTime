@@ -11,3 +11,6 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345477434i/12673959.jpg" width="300" />
 《浪潮之巅》
+
+<img src="https://m.media-amazon.com/images/I/81xow6+2uJL._SL1500_.jpg" width="300">
+《福尔摩斯探案集》
