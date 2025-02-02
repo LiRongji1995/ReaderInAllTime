@@ -14,3 +14,6 @@
 
 <img src="https://m.media-amazon.com/images/I/81xow6+2uJL._SL1500_.jpg" width="300">
 《福尔摩斯探案集》
+
+<img src="https://img3.doubanio.com/view/subject/s/public/s34746417.jpg" width="300">
+《100个Go语言典型错误》
