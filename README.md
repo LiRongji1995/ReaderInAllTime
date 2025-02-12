@@ -20,3 +20,6 @@
 
 <img src="https://img9.doubanio.com/view/subject/s/public/s35009254.jpg" width="300">
 《软件设计的哲学》
+
+<img src="https://img3.doubanio.com/view/subject/s/public/s34624557.jpg" width="300">
+《双月城的惨剧》
