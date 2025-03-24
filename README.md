@@ -23,3 +23,6 @@
 
 <img src="https://img3.doubanio.com/view/subject/s/public/s34624557.jpg" width="300">
 《双月城的惨剧》
+
+<img src="https://m.media-amazon.com/images/I/71rq2V-9l7L._AC_UF1000,1000_QL80_.jpg" width="300">
+《情书》
