@@ -29,3 +29,6 @@
 
 <img src="https://img3.doubanio.com/view/subject/l/public/s33699643.jpg" width="300">
 《Go专家编程》
+
+<img src="https://www.aliceandbooks.com/covers/Dubliners-James_Joyce-md.png" width="300">
+《Dubliners》
