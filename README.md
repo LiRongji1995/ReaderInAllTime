@@ -32,3 +32,6 @@
 
 <img src="https://www.aliceandbooks.com/covers/Dubliners-James_Joyce-md.png" width="300">
 《Dubliners》
+
+<img src="https://img9.doubanio.com/view/subject/l/public/s33703494.jpg" width= "300">
+《JavaScript高级程序设计（第4版）》
