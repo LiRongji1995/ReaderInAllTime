@@ -36,5 +36,5 @@
 <img src="https://img9.doubanio.com/view/subject/l/public/s33703494.jpg" width= "300">
 《JavaScript高级程序设计（第4版）》
 
-<img src="https://img3.doubanio.com/view/subject/l/public/s34664402.jpg" width= "300">
+<img src="https://cdn.kobo.com/book-images/e5f37091-2524-444e-8bd1-5d3a3c8058df/353/569/90/False/hiDeSoxTXj-i8Vdetou-2Q.jpg" width= "300">
 《了凡四训》
