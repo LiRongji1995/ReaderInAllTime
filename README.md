@@ -38,3 +38,6 @@
 
 <img src="https://cdn.kobo.com/book-images/e5f37091-2524-444e-8bd1-5d3a3c8058df/353/569/90/False/hiDeSoxTXj-i8Vdetou-2Q.jpg" width= "300">
 《了凡四训》
+
+<img src="https://m.media-amazon.com/images/I/81Z2gHzicfL._UF1000,1000_QL80_.jpg" width= "300">
+《万历十五年》
