@@ -42,5 +42,5 @@
 <img src="https://m.media-amazon.com/images/I/81Z2gHzicfL._UF1000,1000_QL80_.jpg" width= "300">
 《万历十五年》
 
-<img src="https://img1.doubanio.com/view/subject/m/public/s29904369.jpg" width="300">
+<img src="https://img3.od-cdn.com/ImageType-100/8143-1/%7B2222346E-B4CE-45B1-A80A-C7826685859A%7DIMG100.JPG" width="300">
 《理解人性》
