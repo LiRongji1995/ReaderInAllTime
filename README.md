@@ -15,7 +15,7 @@
 <img src="https://m.media-amazon.com/images/I/81xow6+2uJL._SL1500_.jpg" width="300">
 《福尔摩斯探案集》
 
-<img src="https://img3.doubanio.com/view/subject/m/public/s34746417.jpg" width="300">
+<img src="https://polarisxu.studygolang.com/posts/go/book/imgs/Harsanyi-MEAP-HI.png" width="300">
 《100个Go语言典型错误》
 
 <img src="https://img9.doubanio.com/view/subject/s/public/s35009254.jpg" width="300">
