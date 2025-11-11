@@ -50,3 +50,6 @@
 
 <img src="https://img9.doubanio.com/view/subject/m/public/s35260224.jpg" width="300">
 《以日为鉴》
+
+<img src="https://img9.doubanio.com/view/subject/m/public/s7620454.jpg" width="300">
+《人口原理》
