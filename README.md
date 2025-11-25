@@ -48,7 +48,7 @@
 <img src="https://img.alicdn.com/imgextra/i2/3310271582/O1CN015xpLpv1NYbc2Zb0pF_!!4611686018427386974-2-item_pic.png" width="300">
 《雪人》
 
-<img src="https://img1.doubanio.com/view/subject/l/public/s35232810.jpg" width="300">
+<img src="https://gw.alicdn.com/imgextra/i2/725677994/O1CN01huZqS728vJEhaPE6k_!!4611686018427385770-2-item_pic.png_.webp" width="300">
 《以日为鉴》
 
 <img src="https://m.media-amazon.com/images/I/617xSv20HdL._AC_UF1000,1000_QL80_.jpg" width="300">
