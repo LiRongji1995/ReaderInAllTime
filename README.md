@@ -54,8 +54,5 @@
 <img src="https://m.media-amazon.com/images/I/617xSv20HdL._AC_UF1000,1000_QL80_.jpg" width="300">
 《失去的三十年：平成日本经济史》
 
-<img src="https://img9.doubanio.com/view/subject/m/public/s7620454.jpg" width="300">
-《人口原理》
-
 
 # ReadIn2026
