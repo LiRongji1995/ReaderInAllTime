@@ -18,16 +18,16 @@
 <img src="https://www.manongbook.com/d/file/other/b842ee0ffcff5399d8fd2c5f03d9746d0.jpg" width="300">
 《100个Go语言典型错误》
 
-<img src="https://img9.doubanio.com/view/subject/m/public/s29900655.jpg" width="300">
+<img src="https://img2024.cnblogs.com/blog/121186/202502/121186-20250207104655030-663263026.jpg" width="300">
 《软件设计的哲学》
 
-<img src="https://img3.doubanio.com/view/subject/s/public/s34624557.jpg" width="300">
+<img src="https://m.media-amazon.com/images/I/81ilFjiAhFL._UF1000,1000_QL80_.jpg" width="300">
 《双月城的惨剧》
 
 <img src="https://m.media-amazon.com/images/I/71rq2V-9l7L._AC_UF1000,1000_QL80_.jpg" width="300">
 《情书》
 
-<img src="https://img3.doubanio.com/view/subject/l/public/s33699643.jpg" width="300">
+<img src="https://cf-assets2.tenlong.com.tw/products/images/000/150/499/original/9787121365577.jpg" width="300">
 《Go专家编程》
 
 <img src="https://www.aliceandbooks.com/covers/Dubliners-James_Joyce-md.png" width="300">
