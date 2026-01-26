@@ -63,3 +63,6 @@
 
 <img src="https://www.books.com.tw/img/CN1/796/15/CN17961544.jpg" width="300"> 
 《我甚至相信你拥有整个宇宙》
+
+<img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/CN1/123/90/CN11239043.jpg" width="300"> 
+《PostgreSQL修炼之道_从小工到专家》
