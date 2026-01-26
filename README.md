@@ -15,10 +15,10 @@
 <img src="https://m.media-amazon.com/images/I/81xow6+2uJL._SL1500_.jpg" width="300">
 《福尔摩斯探案集》
 
-<img src="https://polarisxu.studygolang.com/posts/go/book/imgs/Harsanyi-MEAP-HI.png" width="300">
+<img src="https://www.manongbook.com/d/file/other/b842ee0ffcff5399d8fd2c5f03d9746d0.jpg" width="300">
 《100个Go语言典型错误》
 
-<img src="https://img9.doubanio.com/view/subject/s/public/s35009254.jpg" width="300">
+<img src="https://img9.doubanio.com/view/subject/m/public/s29900655.jpg" width="300">
 《软件设计的哲学》
 
 <img src="https://img3.doubanio.com/view/subject/s/public/s34624557.jpg" width="300">
