@@ -69,3 +69,6 @@
 
 <img src="https://m.media-amazon.com/images/I/71-NTsjv-aL._UF1000,1000_QL80_.jpg" width="300"> 
 《道德情操论》
+
+<img src="https://imgv2-2-f.scribdassets.com/img/document/942045327/original/ba97a781fe/1?v=1" width="300"> 
+《人妻约会指南》
