@@ -66,3 +66,6 @@
 
 <img src="https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/CN1/123/90/CN11239043.jpg" width="300"> 
 《PostgreSQL修炼之道_从小工到专家》
+
+<img src="https://m.media-amazon.com/images/I/71-NTsjv-aL._UF1000,1000_QL80_.jpg" width="300"> 
+《道德情操论》
