@@ -72,3 +72,6 @@
 
 <img src="https://m.media-amazon.com/images/I/71r9SqaUsWL._AC_UF1000,1000_QL80_.jpg" width="300"> 
 《被讨厌的勇气》
+
+<img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" width="300">
+《猎豹》
