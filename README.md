@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 📚 Reader in All Time
 
 **A quiet archive of books, ideas, and the years they accompanied.**
@@ -26,7 +25,6 @@
 
 <div align="center">
 
-
 [2026](#2026) · [2025](#2025) · [专题书单](#专题书单)
 
 </div>
@@ -40,7 +38,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/81vTeYj7LQL._AC_UF1000,1000_QL80_.jpg" height="220" alt="《失去的胜利》 封面">
+      <img src="https://www.books.com.tw/img/001/090/04/0010900449.jpg" height="220" alt="《失去的胜利》 封面">
       <br>
       <sub><b>《失去的胜利》</b></sub>
     </td>
@@ -50,19 +48,19 @@
       <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/71-NTsjv-aL._UF1000,1000_QL80_.jpg" height="220" alt="《道德情操论》 封面">
+      <img src="https://www.books.com.tw/img/CN1/011/37/CN10113715.jpg" height="220" alt="《道德情操论》 封面">
       <br>
       <sub><b>《道德情操论》</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://imgv2-2-f.scribdassets.com/img/document/942045327/original/ba97a781fe/1?v=1" height="220" alt="《人妻约会指南》 封面">
+      <img src="https://pica.zhimg.com/80/v2-6f8174feeb1e9a8fee1716ebf6233dd2_720w.webp" height="220" alt="《人妻约会指南》 封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/71r9SqaUsWL._AC_UF1000,1000_QL80_.jpg" height="220" alt="《被讨厌的勇气》 封面">
+      <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="220" alt="《被讨厌的勇气》 封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
@@ -74,7 +72,6 @@
   </tr>
 </table>
 
-
 <p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
 
 ---
@@ -83,7 +80,6 @@
 
 <details open>
 <summary><b>展开 2025 年阅读记录 · 18 books</b></summary>
-
 
 <br>
 
@@ -100,7 +96,7 @@
       <sub><b>《雅思词汇经典》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/71FzpAd5y3L._AC_UF1000,1000_QL80_.jpg" height="220" alt="《如首无作祟之物》 封面">
+      <img src="https://www.books.com.tw/img/001/092/78/0010927819.jpg" height="220" alt="《如首无作祟之物》 封面">
       <br>
       <sub><b>《如首无作祟之物》</b></sub>
     </td>
@@ -112,7 +108,7 @@
       <sub><b>《浪潮之巅》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/81xow6+2uJL._SL1500_.jpg" height="220" alt="《福尔摩斯探案集》 封面">
+      <img src="https://www.books.com.tw/img/001/052/73/0010527328.jpg" height="220" alt="《福尔摩斯探案集》 封面">
       <br>
       <sub><b>《福尔摩斯探案集》</b></sub>
     </td>
@@ -129,12 +125,12 @@
       <sub><b>《软件设计的哲学》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/81ilFjiAhFL._UF1000,1000_QL80_.jpg" height="220" alt="《双月城的惨剧》 封面">
+      <img src="https://www.books.com.tw/img/CN1/191/01/CN11910193.jpg" height="220" alt="《双月城的惨剧》 封面">
       <br>
       <sub><b>《双月城的惨剧》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/71rq2V-9l7L._AC_UF1000,1000_QL80_.jpg" height="220" alt="《情书》 封面">
+      <img src="https://www.books.com.tw/img/001/054/64/0010546476.jpg" height="220" alt="《情书》 封面">
       <br>
       <sub><b>《情书》</b></sub>
     </td>
@@ -163,7 +159,7 @@
       <sub><b>《了凡四训》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/81Z2gHzicfL._UF1000,1000_QL80_.jpg" height="220" alt="《万历十五年》 封面">
+      <img src="https://chinabook.co.kr/data/goods/1/2017/10/7866_tmp_db7ca48e05dc4cb3021a371128cadf557988view.jpg" height="220" alt="《万历十五年》 封面">
       <br>
       <sub><b>《万历十五年》</b></sub>
     </td>
@@ -185,13 +181,12 @@
       <sub><b>《以日为鉴》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://m.medi-amazon.com/images/I/617xSv20HdL._AC_UF1000,1000_QL80_.jpg" height="220" alt="《失去的三十年：平成日本经济史》 封面">
+      <img src="https://www.books.com.tw/img/CN1/784/17/CN17841751.jpg" height="220" alt="《失去的三十年：平成日本经济史》 封面">
       <br>
       <sub><b>《失去的三十年：平成日本经济史》</b></sub>
     </td>
   </tr>
 </table>
-
 
 </details>
 
@@ -212,7 +207,6 @@
 ---
 
 <div align="center">
-
 
 ### Keep reading. Keep wondering.
 
