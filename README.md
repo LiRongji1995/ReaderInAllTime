@@ -36,53 +36,55 @@
 
 > **已读 7 本** · Reading in progress · 持续更新中
 
-<table>
+<!--
+排版规则：每行最多 4 本，并尽量平均分布。
+当前共 7 本，因此采用 4 + 3 的布局。
+-->
+
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/001/090/04/0010900449.jpg" height="220" alt="《失去的胜利》 封面">
+    <td align="center" width="25%">
+      <img src="https://www.books.com.tw/img/001/090/04/0010900449.jpg" height="210" alt="《失去的胜利》封面">
       <br>
       <sub><b>《失去的胜利》</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/CN1/796/15/CN17961544.jpg" height="220" alt="《我甚至相信你拥有整个宇宙》 封面">
+    <td align="center" width="25%">
+      <img src="https://www.books.com.tw/img/CN1/796/15/CN17961544.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
       <br>
       <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/CN1/011/37/CN10113715.jpg" height="220" alt="《道德情操论》 封面">
+    <td align="center" width="25%">
+      <img src="https://www.books.com.tw/img/CN1/011/37/CN10113715.jpg" height="210" alt="《道德情操论》封面">
       <br>
       <sub><b>《道德情操论》</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://pica.zhimg.com/80/v2-6f8174feeb1e9a8fee1716ebf6233dd2_720w.webp" height="220" alt="《人妻约会指南》 封面">
+    <td align="center" width="25%">
+      <img src="https://pica.zhimg.com/80/v2-6f8174feeb1e9a8fee1716ebf6233dd2_720w.webp" height="210" alt="《人妻约会指南》封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="220" alt="《被讨厌的勇气》 封面">
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33.33%">
+      <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" height="220" alt="《猎豹》 封面">
+    <td align="center" width="33.33%">
+      <img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <a href="https://www.qidian.com/book/1024424884/">
-        <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="220" alt="《铁血残明》 封面">
+        <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="210" alt="《铁血残明》封面">
       </a>
       <br>
       <sub><b>《铁血残明》</b></sub>
-      <br>
-      <sub>柯山梦 · 网络小说</sub>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
   </tr>
 </table>
 
