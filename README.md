@@ -8,9 +8,10 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-24-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-25-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-6_books-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-7_read-A68A64?style=flat-square)
+![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
 </div>
@@ -25,7 +26,7 @@
 
 <div align="center">
 
-[2026](#2026) · [2025](#2025) · [专题书单](#专题书单)
+[2026 已读](#2026) · [2026 阅读计划](#2026-阅读计划) · [2025](#2025) · [专题书单](#专题书单)
 
 </div>
 
@@ -33,7 +34,7 @@
 
 ## 2026
 
-> Reading in progress · 持续更新中
+> **已读 7 本** · Reading in progress · 持续更新中
 
 <table>
   <tr>
@@ -70,7 +71,48 @@
       <sub><b>《猎豹》</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.qidian.com/book/1024424884/">
+        <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="220" alt="《铁血残明》 封面">
+      </a>
+      <br>
+      <sub><b>《铁血残明》</b></sub>
+      <br>
+      <sub>柯山梦 · 网络小说</sub>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
 </table>
+
+<p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
+
+---
+
+## 2026 阅读计划
+
+> **计划阅读 8 本** · 文学、奇幻、悬疑与专业阅读交替进行。
+
+这是一份可以随时调整的计划，不强调按顺序完成。读完后，将状态从 `[ ]` 改为 `[x]` 即可。
+
+| 状态 | 书目 | 作者 | 类型 | 选择理由 |
+|---|---|---|---|---|
+| [ ] | [《长日将尽》](https://weread.qq.com/web/bookDetail/956322b05e42079564a8a77) | 石黑一雄 | 文学 | 克制地书写责任、尊严、选择与错过。 |
+| [ ] | [《斯通纳》](https://weread.qq.com/web/bookDetail/a0b329e05cb070a0b0f1092) | 约翰·威廉斯 | 文学 | 讲述一个普通人的一生，平静却很有力量。 |
+| [ ] | [《终结的感觉》](https://weread.qq.com/web/bookDetail/4b6323805cf6714b6584969) | 朱利安·巴恩斯 | 文学 / 心理 | 篇幅不长，围绕记忆、自我解释和往事展开。 |
+| [ ] | [*Designing Data-Intensive Applications, 2nd Edition*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) | Martin Kleppmann、Chris Riccomini | 软件架构 / 分布式系统 | 作为 2026 年的专业慢读项目，系统理解现代数据系统的设计取舍。 |
+| [ ] | [《皮拉内西》](https://www.bloomsbury.com/uk/piranesi-9781526634108/) | 苏珊娜·克拉克 | 奇幻 / 谜团 | 世界观独特，兼具探索感、孤独感和逐步揭晓的谜团。 |
+| [ ] | [《哈利·奥古斯特的十五次人生》](https://www.hachettebookgroup.com/titles/claire-north/the-first-fifteen-lives-of-harry-august/9780316399630/) | 克莱尔·诺斯 | 科幻 / 时间循环 | 用不断重来的人生讨论选择、记忆和命运，同时保持较强的故事性。 |
+| [ ] | [《伊芙琳·哈德卡斯尔的七次死亡》](https://weread.qq.com/web/bookDetail/fd0327d0723f3b1afd006f1) | 斯图尔特·特顿 | 悬疑 / 时间循环 | 庄园谋杀与身份切换结合，结构复杂，解谜感较强。 |
+| [ ] | [《人间便利店》](https://weread.qq.com/web/bookDetail/51f327a0715d96a051fc7a4) | 村田沙耶香 | 当代文学 | 篇幅短、节奏轻快，从“不符合社会期待”的人物观察日常生活。 |
+
+### 建议阅读节奏
+
+1. **先读短篇幅作品：**《人间便利店》→《终结的感觉》
+2. **再读人物与人生：**《长日将尽》→《斯通纳》
+3. **穿插情节型作品：**《皮拉内西》→《伊芙琳·哈德卡斯尔的七次死亡》→《哈利·奥古斯特的十五次人生》
+4. **全年慢读：** *Designing Data-Intensive Applications, 2nd Edition*
 
 <p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
 
