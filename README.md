@@ -59,7 +59,7 @@
       <sub><b>《道德情操论》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/covers/cover-01.svg" height="210" alt="《人妻约会指南》封面">
+      <img src="./assets/covers/2026/04.jpg" height="210" alt="《人妻约会指南》封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
@@ -74,19 +74,19 @@
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/covers/cover-02.svg" height="210" alt="《猎豹》封面">
+      <img src="./assets/covers/2026/06.jpg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://www.qidian.com/book/1024424884/">
-        <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="210" alt="《铁血残明》封面">
+        <img src="./assets/covers/2026/07.jpg" height="210" alt="《铁血残明》封面">
       </a>
       <br>
       <sub><b>《铁血残明》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="./assets/covers/cover-09.svg" height="210" alt="《经济学的思维方式》封面">
+      <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
       <br>
       <sub><b>《经济学的思维方式》</b></sub>
     </td>
@@ -135,12 +135,12 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-03.svg" height="220" alt="《玻璃之锤》 封面">
+      <img src="./assets/covers/2025/01.jpg" height="220" alt="《玻璃之锤》 封面">
       <br>
       <sub><b>《玻璃之锤》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-04.svg" height="220" alt="《雅思词汇经典》 封面">
+      <img src="./assets/covers/2025/02.jpg" height="220" alt="《雅思词汇经典》 封面">
       <br>
       <sub><b>《雅思词汇经典》</b></sub>
     </td>
@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345477434i/12673959.jpg" height="220" alt="《浪潮之巅》 封面">
+      <img src="./assets/covers/2025/04.jpg" height="220" alt="《浪潮之巅》 封面">
       <br>
       <sub><b>《浪潮之巅》</b></sub>
     </td>
@@ -162,14 +162,14 @@
       <sub><b>《福尔摩斯探案集》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-05.svg" height="220" alt="《100个Go语言典型错误》 封面">
+      <img src="./assets/covers/2025/06.jpg" height="220" alt="《100个Go语言典型错误》 封面">
       <br>
       <sub><b>《100个Go语言典型错误》</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-06.svg" height="220" alt="《软件设计的哲学》 封面">
+      <img src="./assets/covers/2025/07.jpg" height="220" alt="《软件设计的哲学》 封面">
       <br>
       <sub><b>《软件设计的哲学》</b></sub>
     </td>
@@ -186,46 +186,46 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cf-assets2.tenlong.com.tw/products/images/000/150/499/original/9787121365577.jpg" height="220" alt="《Go专家编程》 封面">
+      <img src="./assets/covers/2025/10.jpg" height="220" alt="《Go专家编程》 封面">
       <br>
       <sub><b>《Go专家编程》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.aliceandbooks.com/covers/Dubliners-James_Joyce-md.png" height="220" alt="《Dubliners》 封面">
+      <img src="./assets/covers/2025/11.jpg" height="220" alt="《Dubliners》 封面">
       <br>
       <sub><b>《Dubliners》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://file.ituring.com.cn/LargeCover/20080d81a4fb8a268c40" height="220" alt="《JavaScript高级程序设计（第4版）》 封面">
+      <img src="./assets/covers/2025/12.jpg" height="220" alt="《JavaScript高级程序设计（第4版）》 封面">
       <br>
       <sub><b>《JavaScript高级程序设计（第4版）》</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.kobo.com/book-images/e5f37091-2524-444e-8bd1-5d3a3c8058df/353/569/90/False/hiDeSoxTXj-i8Vdetou-2Q.jpg" height="220" alt="《了凡四训》 封面">
+      <img src="./assets/covers/2025/13.jpg" height="220" alt="《了凡四训》 封面">
       <br>
       <sub><b>《了凡四训》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://chinabook.co.kr/data/goods/1/2017/10/7866_tmp_db7ca48e05dc4cb3021a371128cadf557988view.jpg" height="220" alt="《万历十五年》 封面">
+      <img src="./assets/covers/2025/14.jpg" height="220" alt="《万历十五年》 封面">
       <br>
       <sub><b>《万历十五年》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img3.od-cdn.com/ImageType-100/8143-1/%7B2222346E-B4CE-45B1-A80A-C7826685859A%7DIMG100.JPG" height="220" alt="《理解人性》 封面">
+      <img src="./assets/covers/2025/15.jpg" height="220" alt="《理解人性》 封面">
       <br>
       <sub><b>《理解人性》</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-07.svg" height="220" alt="《雪人》 封面">
+      <img src="./assets/covers/2025/16.jpg" height="220" alt="《雪人》 封面">
       <br>
       <sub><b>《雪人》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/covers/cover-08.svg" height="220" alt="《以日为鉴》 封面">
+      <img src="./assets/covers/2025/17.jpg" height="220" alt="《以日为鉴》 封面">
       <br>
       <sub><b>《以日为鉴》</b></sub>
     </td>
