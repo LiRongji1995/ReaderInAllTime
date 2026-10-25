@@ -64,7 +64,7 @@ def main():
     bad = []
     report = ["# Original book-cover sources", "", "These images are copies of published book-cover artwork, not AI-generated artwork or illustrative placeholders.", "Displayed editions can differ from editions personally read where the edition was not specified.", ""]
     for year, idx, title, filename, source, error in results:
-        pattern = r'(<img src=")([^"]+)(" height="\\d+" alt="《' + re.escape(title) + r'》\\s*封面")'
+        pattern = r'(<img src=")([^"]+)(" height="\d+" alt="《' + re.escape(title) + r'》\s*封面")'
         if not re.search(pattern, readme):
             raise RuntimeError(f"Missing cover image for {title}")
         if filename:
@@ -78,10 +78,10 @@ def main():
             report.append(f"- **{year} {idx} · {title}**: not cached; original cover unavailable at download time")
             print(f"FAIL {year}/{idx} {title}: {error}", flush=True)
     README.write_text(readme, encoding="utf-8")
-    (COVER_ROOT / "SOURCES.md").write_text("\\n".join(report) + "\\n", encoding="utf-8")
+    (COVER_ROOT / "SOURCES.md").write_text("\n".join(report) + "\n", encoding="utf-8")
     print(f"RESULT cached={good}/{len(BOOKS)} missing={len(bad)}", flush=True)
     if bad:
-        print("UNRESOLVED:", *bad, sep="\\n", flush=True)
+        print("UNRESOLVED:", *bad, sep="\n", flush=True)
 
 if __name__ == "__main__":
     main()
