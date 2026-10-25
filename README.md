@@ -59,7 +59,7 @@
       <sub><b>《道德情操论》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://pica.zhimg.com/80/v2-6f8174feeb1e9a8fee1716ebf6233dd2_720w.webp" height="210" alt="《人妻约会指南》封面">
+      <img src="./assets/covers/cover-01.svg" height="210" alt="《人妻约会指南》封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
@@ -74,7 +74,7 @@
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" height="210" alt="《猎豹》封面">
+      <img src="./assets/covers/cover-02.svg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
@@ -86,7 +86,7 @@
       <sub><b>《铁血残明》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://motatabooks.com/cdn/shop/files/a7146c15-d2a8-40aa-ae30-54606b49534d.png?v=1762395352" height="210" alt="《经济学的思维方式》封面">
+      <img src="./assets/covers/cover-09.svg" height="210" alt="《经济学的思维方式》封面">
       <br>
       <sub><b>《经济学的思维方式》</b></sub>
     </td>
@@ -135,12 +135,12 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGr7pXvqynMKJjPko8C7mje5DDuy37ogErQ&amp;s" height="220" alt="《玻璃之锤》 封面">
+      <img src="./assets/covers/cover-03.svg" height="220" alt="《玻璃之锤》 封面">
       <br>
       <sub><b>《玻璃之锤》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiwFTwT15ihQ2sI9pHspZb8Lcbr7G3swF6Q&amp;s" height="220" alt="《雅思词汇经典》 封面">
+      <img src="./assets/covers/cover-04.svg" height="220" alt="《雅思词汇经典》 封面">
       <br>
       <sub><b>《雅思词汇经典》</b></sub>
     </td>
@@ -162,14 +162,14 @@
       <sub><b>《福尔摩斯探案集》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.manongbook.com/d/file/other/b842ee0ffcff5399d8fd2c5f03d9746d0.jpg" height="220" alt="《100个Go语言典型错误》 封面">
+      <img src="./assets/covers/cover-05.svg" height="220" alt="《100个Go语言典型错误》 封面">
       <br>
       <sub><b>《100个Go语言典型错误》</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img2024.cnblogs.com/blog/121186/202502/121186-20250207104655030-663263026.jpg" height="220" alt="《软件设计的哲学》 封面">
+      <img src="./assets/covers/cover-06.svg" height="220" alt="《软件设计的哲学》 封面">
       <br>
       <sub><b>《软件设计的哲学》</b></sub>
     </td>
@@ -220,12 +220,12 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.alicdn.com/imgextra/i2/3310271582/O1CN015xpLpv1NYbc2Zb0pF_!!4611686018427386974-2-item_pic.png" height="220" alt="《雪人》 封面">
+      <img src="./assets/covers/cover-07.svg" height="220" alt="《雪人》 封面">
       <br>
       <sub><b>《雪人》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://gw.alicdn.com/imgextra/i2/725677994/O1CN01huZqS728vJEhaPE6k_!!4611686018427385770-2-item_pic.png_.webp" height="220" alt="《以日为鉴》 封面">
+      <img src="./assets/covers/cover-08.svg" height="220" alt="《以日为鉴》 封面">
       <br>
       <sub><b>《以日为鉴》</b></sub>
     </td>
