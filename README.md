@@ -44,17 +44,17 @@
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://www.books.com.tw/img/001/090/04/0010900449.jpg" height="210" alt="《失去的胜利》封面">
+      <img src="./assets/covers/2026/01.jpg" height="210" alt="《失去的胜利》封面">
       <br>
       <sub><b>《失去的胜利》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://www.books.com.tw/img/CN1/796/15/CN17961544.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
+      <img src="./assets/covers/2026/02.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
       <br>
       <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://www.books.com.tw/img/CN1/011/37/CN10113715.jpg" height="210" alt="《道德情操论》封面">
+      <img src="./assets/covers/2026/03.jpg" height="210" alt="《道德情操论》封面">
       <br>
       <sub><b>《道德情操论》</b></sub>
     </td>
@@ -69,7 +69,7 @@
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="210" alt="《被讨厌的勇气》封面">
+      <img src="./assets/covers/2026/05.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
@@ -145,7 +145,7 @@
       <sub><b>《雅思词汇经典》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/001/092/78/0010927819.jpg" height="220" alt="《如首无作祟之物》 封面">
+      <img src="./assets/covers/2025/03.jpg" height="220" alt="《如首无作祟之物》 封面">
       <br>
       <sub><b>《如首无作祟之物》</b></sub>
     </td>
@@ -157,7 +157,7 @@
       <sub><b>《浪潮之巅》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/001/052/73/0010527328.jpg" height="220" alt="《福尔摩斯探案集》 封面">
+      <img src="./assets/covers/2025/05.jpg" height="220" alt="《福尔摩斯探案集》 封面">
       <br>
       <sub><b>《福尔摩斯探案集》</b></sub>
     </td>
@@ -174,12 +174,12 @@
       <sub><b>《软件设计的哲学》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/CN1/191/01/CN11910193.jpg" height="220" alt="《双月城的惨剧》 封面">
+      <img src="./assets/covers/2025/08.jpg" height="220" alt="《双月城的惨剧》 封面">
       <br>
       <sub><b>《双月城的惨剧》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/001/054/64/0010546476.jpg" height="220" alt="《情书》 封面">
+      <img src="./assets/covers/2025/09.jpg" height="220" alt="《情书》 封面">
       <br>
       <sub><b>《情书》</b></sub>
     </td>
@@ -230,7 +230,7 @@
       <sub><b>《以日为鉴》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.books.com.tw/img/CN1/784/17/CN17841751.jpg" height="220" alt="《失去的三十年：平成日本经济史》 封面">
+      <img src="./assets/covers/2025/18.jpg" height="220" alt="《失去的三十年：平成日本经济史》 封面">
       <br>
       <sub><b>《失去的三十年：平成日本经济史》</b></sub>
     </td>
