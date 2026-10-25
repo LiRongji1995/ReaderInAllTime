@@ -8,9 +8,9 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-25-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-26-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-7_read-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-8_read-A68A64?style=flat-square)
 ![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
@@ -34,11 +34,11 @@
 
 ## 2026
 
-> **已读 7 本** · Reading in progress · 持续更新中
+> **已读 8 本** · Reading in progress · 持续更新中
 
 <!--
 排版规则：每行最多 4 本，并尽量平均分布。
-当前共 7 本，因此采用 4 + 3 的布局。
+当前共 8 本，因此采用 4 + 4 的布局。
 -->
 
 <table width="100%">
@@ -68,22 +68,27 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://www.qidian.com/book/1024424884/">
         <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="210" alt="《铁血残明》封面">
       </a>
       <br>
       <sub><b>《铁血残明》</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://motatabooks.com/cdn/shop/files/a7146c15-d2a8-40aa-ae30-54606b49534d.png?v=1762395352" height="210" alt="《经济学的思维方式》封面">
+      <br>
+      <sub><b>《经济学的思维方式》</b></sub>
     </td>
   </tr>
 </table>
