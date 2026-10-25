@@ -89,7 +89,7 @@ def existing_sources():
     if not source_path.is_file(): return {}
     entries = {}
     for line in source_path.read_text(encoding="utf-8").splitlines():
-        m = re.search(r'^- \\*\\*(\\d{4}) (\\d{2}) · ([^*]+)\\*\\*: .* · source: (https?://\\S+)', line)
+        m = re.search(r'^- \*\*(\d{4}) (\d{2}) · ([^*]+)\*\*: .* · source: (https?://\S+)', line)
         if m: entries[(m.group(1),m.group(2))] = m.group(4)
     return entries
 
