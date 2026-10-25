@@ -140,9 +140,9 @@
       <sub><b>《玻璃之锤》</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/covers/2025/02.jpg" height="220" alt="《雅思词汇经典》 封面">
+      <img src="./assets/covers/2025/02.jpg" height="220" alt="《雅思词汇真经》 封面">
       <br>
-      <sub><b>《雅思词汇经典》</b></sub>
+      <sub><b>《雅思词汇真经》</b></sub>
     </td>
     <td align="center" width="33%">
       <img src="./assets/covers/2025/03.jpg" height="220" alt="《如首无作祟之物》 封面">
