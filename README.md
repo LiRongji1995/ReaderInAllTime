@@ -8,9 +8,9 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-26-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-27-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-8_read-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-9_read-A68A64?style=flat-square)
 ![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
@@ -34,61 +34,68 @@
 
 ## 2026
 
-> **已读 8 本** · Reading in progress · 持续更新中
+> **已读 9 本** · Reading in progress · 持续更新中
 
 <!--
 排版规则：每行最多 4 本，并尽量平均分布。
-当前共 8 本，因此采用 4 + 4 的布局。
+当前共 9 本，因此采用 3 + 3 + 3 的布局。
 -->
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/01.jpg" height="210" alt="《失去的胜利》封面">
       <br>
       <sub><b>《失去的胜利》</b></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/02.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
       <br>
       <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/03.jpg" height="210" alt="《道德情操论》封面">
       <br>
       <sub><b>《道德情操论》</b></sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/04.jpg" height="210" alt="《人妻约会指南》封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/05.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/06.jpg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
       <a href="https://www.qidian.com/book/1024424884/">
         <img src="./assets/covers/2026/07.jpg" height="210" alt="《铁血残明》封面">
       </a>
       <br>
       <sub><b>《铁血残明》</b></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33.33%">
       <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
       <br>
       <sub><b>《经济学的思维方式》</b></sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://book.douban.com/subject/36955267/">
+        <img src="https://cdn11.bigcommerce.com/s-txnua8lpj8/images/stencil/1280x1280/products/836/1109/9787531363767__06179.1739088594.jpg?c=1" height="210" alt="《绍宋》封面">
+      </a>
+      <br>
+      <sub><b>《绍宋》</b></sub>
+    
     </td>
   </tr>
 </table>
