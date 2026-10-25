@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="33.33%">
       <a href="https://book.douban.com/subject/36955267/">
-        <img src="https://cdn11.bigcommerce.com/s-txnua8lpj8/images/stencil/1280x1280/products/836/1109/9787531363767__06179.1739088594.jpg?c=1" height="210" alt="《绍宋》封面">
+        <img src="./assets/covers/2026/09.jpg" height="210" alt="《绍宋》封面">
       </a>
       <br>
       <sub><b>《绍宋》</b></sub>
