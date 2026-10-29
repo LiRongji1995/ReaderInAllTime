@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://chihishoten.com/products/%E5%8E%9F%E5%88%99-%E7%94%9F%E6%B4%BB%E5%92%8C%E5%B7%A5%E4%BD%9C-%E7%91%9E-%E8%BE%BE%E5%88%A9%E6%AC%A7">
-        <img src="https://chihishoten.com/cdn/shop/products/86D89567-8B28-47F9-8DCE-74ECE18959F5_580x.jpg?v=1674551277" height="210" alt="《原则》封面">
+        <img src="./assets/covers/2026/12.jpg" height="210" alt="《原则》封面">
       </a>
       <br>
       <sub><b>《原则》</b></sub>
