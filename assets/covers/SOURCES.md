@@ -3,6 +3,7 @@
 All images are real publisher-edition or author-released cover artwork, not AI-generated artwork or illustrative placeholders. Cover rights remain with their respective rights holders.
 Displayed editions can differ from editions personally read where the edition was not specified.
 
+- **2026 10 · 百年孤独**: [image](../../assets/covers/2026/10.jpg) · source: https://images-r2.thatbear.cn/thumbnail/w960/book20170417/6VxEEx4v.jpg.webp
 - **2026 09 · 绍宋**: [image](../../assets/covers/2026/09.jpg) · source: https://book-pic.webnovel.com/bookcover/15610037104915904?imageId=1620373624305&imageMogr2%2Fthumbnail%2F600x=
 - **2026 08 · 经济学的思维方式**: [image](../../assets/covers/2026/08.jpg) · source: https://motatabooks.com/cdn/shop/files/a7146c15-d2a8-40aa-ae30-54606b49534d.png?v=1762395352
 - **2026 07 · 铁血残明**: [image](../../assets/covers/2026/07.jpg) · source: https://bookcover.yuewen.com/qdbimg/349573/1024424884/600

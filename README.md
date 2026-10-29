@@ -108,7 +108,7 @@
     </td>
     <td align="center" width="33.33%">
       <a href="https://book.douban.com/subject/6082808/">
-        <img src="https://images-r2.thatbear.cn/thumbnail/w960/book20170417/6VxEEx4v.jpg.webp" height="210" alt="《百年孤独》封面">
+        <img src="./assets/covers/2026/10.jpg" height="210" alt="《百年孤独》封面">
       </a>
       <br>
       <sub><b>《百年孤独》</b></sub>
