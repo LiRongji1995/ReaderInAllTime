@@ -8,9 +8,9 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-28-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-29-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-10_read-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-11_read-A68A64?style=flat-square)
 ![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
@@ -34,11 +34,11 @@
 
 ## 2026
 
-> **已读 10 本** · Reading in progress · 持续更新中
+> **已读 11 本** · Reading in progress · 持续更新中
 
 <!--
 排版规则：每行最多 4 本，并尽量平均分布。
-当前共 10 本，因此采用 4 + 3 + 3 的布局。
+当前共 11 本，因此采用 4 + 4 + 3 的布局。
 -->
 
 <table width="100%">
@@ -68,29 +68,24 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/05.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
       <sub><b>《被讨厌的勇气》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/06.jpg" height="210" alt="《猎豹》封面">
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://www.qidian.com/book/1024424884/">
         <img src="./assets/covers/2026/07.jpg" height="210" alt="《铁血残明》封面">
       </a>
       <br>
       <sub><b>《铁血残明》</b></sub>
     </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="./notes/2026/the-economic-way-of-thinking.md">
         <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
       </a>
@@ -99,6 +94,11 @@
       <br>
       <sub><a href="./notes/2026/the-economic-way-of-thinking.md">📝 阅读笔记</a></sub>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td align="center" width="33.33%">
       <a href="https://book.douban.com/subject/36955267/">
         <img src="./assets/covers/2026/09.jpg" height="210" alt="《绍宋》封面">
@@ -112,6 +112,13 @@
       </a>
       <br>
       <sub><b>《百年孤独》</b></sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://book.douban.com/subject/27170538/">
+        <img src="https://cdn.hutusi.com/images/articles/2022-at-the-existentialist-cafe.jpg" height="210" alt="《存在主义咖啡馆》封面">
+      </a>
+      <br>
+      <sub><b>《存在主义咖啡馆》</b></sub>
     </td>
   </tr>
 </table>
