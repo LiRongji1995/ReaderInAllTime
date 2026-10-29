@@ -85,9 +85,13 @@
       <sub><b>《铁血残明》</b></sub>
     </td>
     <td align="center" width="33.33%">
-      <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
+      <a href="./notes/2026/the-economic-way-of-thinking.md">
+        <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
+      </a>
       <br>
-      <sub><b>《经济学的思维方式》</b></sub>
+      <sub><b><a href="./notes/2026/the-economic-way-of-thinking.md">《经济学的思维方式》</a></b></sub>
+      <br>
+      <sub><a href="./notes/2026/the-economic-way-of-thinking.md">📝 阅读笔记</a></sub>
     </td>
     <td align="center" width="33.33%">
       <a href="https://book.douban.com/subject/36955267/">
