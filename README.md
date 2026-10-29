@@ -8,9 +8,9 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-27-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-28-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-9_read-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-10_read-A68A64?style=flat-square)
 ![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
@@ -34,37 +34,40 @@
 
 ## 2026
 
-> **已读 9 本** · Reading in progress · 持续更新中
+> **已读 10 本** · Reading in progress · 持续更新中
 
 <!--
 排版规则：每行最多 4 本，并尽量平均分布。
-当前共 9 本，因此采用 3 + 3 + 3 的布局。
+当前共 10 本，因此采用 4 + 3 + 3 的布局。
 -->
 
 <table width="100%">
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/01.jpg" height="210" alt="《失去的胜利》封面">
       <br>
       <sub><b>《失去的胜利》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/02.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
       <br>
       <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/03.jpg" height="210" alt="《道德情操论》封面">
       <br>
       <sub><b>《道德情操论》</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <img src="./assets/covers/2026/04.jpg" height="210" alt="《人妻约会指南》封面">
       <br>
       <sub><b>《人妻约会指南》</b></sub>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td align="center" width="33.33%">
       <img src="./assets/covers/2026/05.jpg" height="210" alt="《被讨厌的勇气》封面">
       <br>
@@ -75,8 +78,6 @@
       <br>
       <sub><b>《猎豹》</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33.33%">
       <a href="https://www.qidian.com/book/1024424884/">
         <img src="./assets/covers/2026/07.jpg" height="210" alt="《铁血残明》封面">
@@ -84,6 +85,11 @@
       <br>
       <sub><b>《铁血残明》</b></sub>
     </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td align="center" width="33.33%">
       <a href="./notes/2026/the-economic-way-of-thinking.md">
         <img src="./assets/covers/2026/08.jpg" height="210" alt="《经济学的思维方式》封面">
@@ -99,6 +105,13 @@
       </a>
       <br>
       <sub><b>《绍宋》</b></sub>
+    </td>
+    <td align="center" width="33.33%">
+      <a href="https://book.douban.com/subject/6082808/">
+        <img src="https://images-r2.thatbear.cn/thumbnail/w960/book20170417/6VxEEx4v.jpg.webp" height="210" alt="《百年孤独》封面">
+      </a>
+      <br>
+      <sub><b>《百年孤独》</b></sub>
     </td>
   </tr>
 </table>
