@@ -3,6 +3,7 @@
 All images are real publisher-edition or author-released cover artwork, not AI-generated artwork or illustrative placeholders. Cover rights remain with their respective rights holders.
 Displayed editions can differ from editions personally read where the edition was not specified.
 
+- **2026 11 · 存在主义咖啡馆**: [image](../../assets/covers/2026/11.jpg) · source: https://ferrybooks.com/cdn/shop/files/E5_AD_98_E5_9C_A8_E4_B8_BB_E4_B9_89_E5_92_96_E5_95_A1_E9_A6_86Artboard-1_2x_c5e4fe07-39eb-435b-b3b3-bbe903ac61cc.png?v=1699180570
 - **2026 10 · 百年孤独**: [image](../../assets/covers/2026/10.jpg) · source: https://images-r2.thatbear.cn/thumbnail/w960/book20170417/6VxEEx4v.jpg.webp
 - **2026 09 · 绍宋**: [image](../../assets/covers/2026/09.jpg) · source: https://book-pic.webnovel.com/bookcover/15610037104915904?imageId=1620373624305&imageMogr2%2Fthumbnail%2F600x=
 - **2026 08 · 经济学的思维方式**: [image](../../assets/covers/2026/08.jpg) · source: https://motatabooks.com/cdn/shop/files/a7146c15-d2a8-40aa-ae30-54606b49534d.png?v=1762395352

@@ -115,7 +115,7 @@
     </td>
     <td align="center" width="33.33%">
       <a href="https://book.douban.com/subject/27170538/">
-        <img src="https://cdn.hutusi.com/images/articles/2022-at-the-existentialist-cafe.jpg" height="210" alt="《存在主义咖啡馆》封面">
+        <img src="./assets/covers/2026/11.jpg" height="210" alt="《存在主义咖啡馆》封面">
       </a>
       <br>
       <sub><b>《存在主义咖啡馆》</b></sub>
