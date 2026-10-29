@@ -8,9 +8,9 @@
 
 <br>
 
-![Books](https://img.shields.io/badge/Books-29-6F4E37?style=flat-square)
+![Books](https://img.shields.io/badge/Books-30-6F4E37?style=flat-square)
 ![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
-![2026](https://img.shields.io/badge/2026-11_read-A68A64?style=flat-square)
+![2026](https://img.shields.io/badge/2026-12_read-A68A64?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
 </div>
@@ -33,11 +33,11 @@
 
 ## 2026
 
-> **已读 11 本** · Reading in progress · 持续更新中
+> **已读 12 本** · Reading in progress · 持续更新中
 
 <!--
 排版规则：每行最多 4 本，并尽量平均分布。
-当前共 11 本，因此采用 4 + 4 + 3 的布局。
+当前共 12 本，因此采用 4 + 4 + 4 的布局。
 -->
 
 <table width="100%">
@@ -98,26 +98,33 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://book.douban.com/subject/36955267/">
         <img src="./assets/covers/2026/09.jpg" height="210" alt="《绍宋》封面">
       </a>
       <br>
       <sub><b>《绍宋》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://book.douban.com/subject/6082808/">
         <img src="./assets/covers/2026/10.jpg" height="210" alt="《百年孤独》封面">
       </a>
       <br>
       <sub><b>《百年孤独》</b></sub>
     </td>
-    <td align="center" width="33.33%">
+    <td align="center" width="25%">
       <a href="https://book.douban.com/subject/27170538/">
         <img src="./assets/covers/2026/11.jpg" height="210" alt="《存在主义咖啡馆》封面">
       </a>
       <br>
       <sub><b>《存在主义咖啡馆》</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://chihishoten.com/products/%E5%8E%9F%E5%88%99-%E7%94%9F%E6%B4%BB%E5%92%8C%E5%B7%A5%E4%BD%9C-%E7%91%9E-%E8%BE%BE%E5%88%A9%E6%AC%A7">
+        <img src="https://chihishoten.com/cdn/shop/products/86D89567-8B28-47F9-8DCE-74ECE18959F5_580x.jpg?v=1674551277" height="210" alt="《原则》封面">
+      </a>
+      <br>
+      <sub><b>《原则》</b></sub>
     </td>
   </tr>
 </table>
