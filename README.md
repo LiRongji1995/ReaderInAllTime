@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://www.sanmin.com.tw/product/index/006195015">
-        <img src="https://n.sinaimg.cn/sinakd2021528s/337/w1080h1657/20210528/03f1-kquziih9303973.jpg" height="210" alt="《X的悲剧》封面">
+        <img src="./assets/covers/2026/12.jpg" height="210" alt="《X的悲剧》封面">
       </a>
       <br>
       <sub><b>《X的悲剧》</b></sub>
