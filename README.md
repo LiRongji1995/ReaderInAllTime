@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="25%">
       <a href="https://book.douban.com/subject/26895993/">
-        <img src="https://cdn1.sgliteasset.com/gerakbud/images/product/product-2718125/DVCuDvr96413d942390bb_1679022403.jpg" height="210" alt="《刻意练习》封面">
+        <img src="./assets/covers/2026/12.jpg" height="210" alt="《刻意练习》封面">
       </a>
       <br>
       <sub><b>《刻意练习》</b></sub>

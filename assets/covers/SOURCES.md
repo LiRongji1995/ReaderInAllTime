@@ -3,6 +3,7 @@
 All images are real publisher-edition or author-released cover artwork, not AI-generated artwork or illustrative placeholders. Cover rights remain with their respective rights holders.
 Displayed editions can differ from editions personally read where the edition was not specified.
 
+- **2026 12 · 刻意练习**: [image](../../assets/covers/2026/12.jpg) · source: https://cdn1.sgliteasset.com/gerakbud/images/product/product-2718125/DVCuDvr96413d942390bb_1679022403.jpg
 - **2026 11 · 原则**: [image](../../assets/covers/2026/11.jpg) · source: https://chihishoten.com/cdn/shop/products/86D89567-8B28-47F9-8DCE-74ECE18959F5_580x.jpg?v=1674551277
 - **2026 10 · 百年孤独**: [image](../../assets/covers/2026/10.jpg) · source: https://images-r2.thatbear.cn/thumbnail/w960/book20170417/6VxEEx4v.jpg.webp
 - **2026 09 · 绍宋**: [image](../../assets/covers/2026/09.jpg) · source: https://book-pic.webnovel.com/bookcover/15610037104915904?imageId=1620373624305&imageMogr2%2Fthumbnail%2F600x=
